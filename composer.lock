@@ -3,16 +3,16 @@
     "packages": [
         {
             "name": "chrisboulton/php-resque",
-            "version": "1.2",
+            "version": "v1.2.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/chrisboulton/php-resque.git",
-                "reference": "1.2"
+                "url": "https://github.com/motain/php-resque.git",
+                "reference": "v1.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/chrisboulton/php-resque/zipball/1.2",
-                "reference": "1.2",
+                "url": "https://github.com/motain/php-resque/zipball/v1.2.2",
+                "reference": "v1.2.2",
                 "shasum": ""
             },
             "require": {
